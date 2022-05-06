@@ -4,31 +4,29 @@
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 
-## Objective
+## Objetivos
 
-In this project, we translate the SEED labs into Brazilian Portuguese
-
-
-
-## Contributing
-
-Want to contribute? Great! Please take a few minutes to
-[read this](CONTRIBUTING.md)!
+Neste projeto, traduzimos os laboratórios SEED para o português brasileiro.
 
 
-## License
+## Contribuição
 
-All the SEED labs in this repository use open-source licenses. 
-You can [read this](LICENSE.md) for more details.
+Você quer contribuir? Excelente! Por favor, leia esse documento [aqui](CONTRIBUTING.md)!
 
 
-## Organization of this repository
+## Licença
 
-The SEED labs are divided into 6 categories, and each one has its own folder. 
+Todos os laboratórios SEED neste repositório usam licenças de código aberto. 
+Você pode ler esta licença [aqui](LICENSE.md) para mas detalhes.
 
-- ```category-crypto```:     For crypto labs
-- ```category-hardware```:   For hardware security labs
-- ```category-mobile```:     For mobile security labs
-- ```category-network```:    For network security labs
-- ```category-software```:   For software security labs
-- ```category-web```:        For web security labs
+
+## Organização deste repositório
+
+Os laboratórios SEED são divididos em 6 categorias, e cada uma tem sua própria pasta. 
+
+- ```category-crypto```:     para crypto labs
+- ```category-hardware```:   para hardware security labs
+- ```category-mobile```:     para mobile security labs
+- ```category-network```:    para network security labs
+- ```category-software```:   para software security labs
+- ```category-web```:        para web security labs
